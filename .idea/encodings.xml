@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/bike_service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bike_service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/car_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config_service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user_service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user_service/src/main/resources" charset="UTF-8" />
   </component>
