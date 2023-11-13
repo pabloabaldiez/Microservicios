@@ -9,4 +9,4 @@ spring:
           uri: https://github.com/pabloabaldiez/microservicios
           search-paths: config_data
   application:
-    name: config-service
+    name: config_service
