@@ -9,12 +9,14 @@
         <module name="user_service" />
         <module name="bike_service" />
         <module name="car_service" />
-        <module name="config_service" />
+        <module name="config-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bike-service" target="17" />
       <module name="car-service" target="17" />
+      <module name="config" target="17" />
+      <module name="config_service" target="17" />
       <module name="user-service" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -24,6 +26,8 @@
       <module name="bike_service" options="-parameters" />
       <module name="car-service" options="-parameters" />
       <module name="car_service" options="-parameters" />
+      <module name="config" options="-parameters" />
+      <module name="config-service" options="-parameters" />
       <module name="config_service" options="-parameters" />
       <module name="user-service" options="-parameters" />
       <module name="user_service" options="-parameters" />
