@@ -8,7 +8,7 @@
 		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bike.service</groupId>
+	<groupId>bike_service</groupId>
 	<artifactId>bike_service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bike_service</name>

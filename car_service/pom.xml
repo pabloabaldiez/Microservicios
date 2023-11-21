@@ -8,7 +8,7 @@
 		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.car.service</groupId>
+	<groupId>car_service</groupId>
 	<artifactId>car_service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>car_service</name>
