@@ -10,6 +10,7 @@
         <module name="bike_service" />
         <module name="car_service" />
         <module name="config-service" />
+        <module name="eureka_service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +30,7 @@
       <module name="config" options="-parameters" />
       <module name="config-service" options="-parameters" />
       <module name="config_service" options="-parameters" />
+      <module name="eureka_service" options="-parameters" />
       <module name="user-service" options="-parameters" />
       <module name="user_service" options="-parameters" />
     </option>
