@@ -1,4 +1,5 @@
 server:
+  wait-time-in-ms-when-sync-empty: 0
   port: 8761
 eureka:
   client:
