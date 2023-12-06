@@ -10,6 +10,7 @@
         <module name="bike_service" />
         <module name="car_service" />
         <module name="config-service" />
+        <module name="eureka_service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,7 +18,6 @@
       <module name="car-service" target="17" />
       <module name="config" target="17" />
       <module name="config_service" target="17" />
-      <module name="eureka_service" target="1.8" />
       <module name="user-service" target="17" />
     </bytecodeTargetLevel>
   </component>
